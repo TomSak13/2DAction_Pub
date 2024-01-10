@@ -42,6 +42,9 @@
 | ゲームエンジン | Unity | 2021.3.14f1 |
 | ビルド環境 | Visual Studio | Microsoft Visual Studio Community 2019 |  
 
+- 上記の環境で、下記のアセットのフォルダをAssetフォルダ直下に入れることで動作します。
+https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
+https://assetstore.unity.com/packages/2d/characters/monsters-creatures-fantasy-167949
 
 ## 設計
 
